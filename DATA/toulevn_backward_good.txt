@@ -1,0 +1,86 @@
+;PC Software:StarLab Version 3.62 Build 1
+! ******* Warning: Do not modify this file. Changes may prevent   ********
+! ******* the StarLab Log reader from opening the file correctly. ********
+;Logged:29/03/2022 at 16:46:57
+;File Version:5
+;Time Resolution:1 microseconds
+;Log Settings:Sample:of period: 00:00:01
+;Graph Mode:Merge
+;Graph Type:Line
+;Notes:                                                            
+
+;Channel A:Vega Thermopile 3A (s/n:940606)  VG2.54 (s/n:946462)
+
+;Channel A:Details
+;Name:3A
+;Graph Color:RGB(14,104,168)
+;Units:W
+;Settings:Measuring:Power
+;Settings:Wavelength:532
+;Settings:Range:AUTO
+
+;Channel A:Statistics
+;Min:58.10mW             
+;Max:100.4mW             
+;Average:83.01mW             
+;Std.Dev.:15.74mW             
+;Overrange:0                   
+;--------------------
+
+
+;First Pulse Arrived : 29/03/2022 at 16:46:57
+  Timestamp   	  Channel A  	
+         0.000	  1.004e-01 	
+         1.024	  1.004e-01 	
+         2.048	  1.002e-01 	
+         3.040	  9.990e-02 	
+         4.032	  9.990e-02 	
+         5.024	  9.990e-02 	
+         6.048	  9.980e-02 	
+         7.040	  9.960e-02 	
+         8.031	  9.940e-02 	
+         9.023	  9.900e-02 	
+        10.048	  9.850e-02 	
+        11.040	  9.780e-02 	
+        12.032	  9.690e-02 	
+        13.024	  9.570e-02 	
+        14.015	  9.420e-02 	
+        15.040	  9.230e-02 	
+        16.031	  9.020e-02 	
+        17.024	  8.740e-02 	
+        18.016	  8.390e-02 	
+        19.040	  7.850e-02 	
+        20.032	  7.090e-02 	
+        21.023	  6.330e-02 	
+        22.015	  5.860e-02 	
+        23.040	  5.810e-02 	
+        24.032	  6.160e-02 	
+        25.024	  6.470e-02 	
+        26.016	  6.540e-02 	
+        27.040	  6.390e-02 	
+        28.031	  6.250e-02 	
+        29.024	  6.110e-02 	
+        30.015	  5.990e-02 	
+        31.040	  5.890e-02 	
+        32.032	  5.910e-02 	
+        33.024	  6.030e-02 	
+        34.015	  6.220e-02 	
+        35.039	  6.450e-02 	
+        36.032	  6.720e-02 	
+        37.024	  7.030e-02 	
+        38.015	  7.370e-02 	
+        39.039	  7.710e-02 	
+        40.032	  7.990e-02 	
+        41.023	  8.280e-02 	
+        42.015	  8.540e-02 	
+        43.040	  8.750e-02 	
+        44.031	  8.970e-02 	
+        45.024	  9.140e-02 	
+        46.016	  9.280e-02 	
+        47.040	  9.400e-02 	
+        48.032	  9.510e-02 	
+        49.024	  9.590e-02 	
+        50.016	  9.670e-02 	
+        51.008	  9.750e-02 	
+        52.032	  9.820e-02 	
+        53.024	  9.840e-02 	
