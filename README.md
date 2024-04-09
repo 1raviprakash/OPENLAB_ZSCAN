@@ -1,4 +1,6 @@
 Openlab_zscan
+$$ K_U = \frac{1}{|\mathcal{I}_U|} \sum_{i \in \mathcal{I}_U} \min_{t \in \mathcal{T}} \text{dist}(i, t) $$
+
 ### Step 0: Vector generation 
     import numpy as np
     vector_size = 1536
